@@ -51,6 +51,6 @@ async def start(client, message):
 bot.start()
 LOGGER.info("SDSongBot is online.")
 idle()
-© 2021 GitHub, Inc.
+2021 GitHub, Inc.
  
 
